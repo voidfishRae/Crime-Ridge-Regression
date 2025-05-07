@@ -1,5 +1,5 @@
 # Crime-Ridge-Regression
-Analysis of the results of a ridge regression (via Scikit Learn) when applied to a dataset of community and crime statistics.
+Analysis of the results of a ridge regression (via Scikit Learn) when applied to a dataset of community and crime statistics to predict likelihood of violent crime in different communities.
 
 Dataset used:
 http://archive.ics.uci.edu/ml/datasets/communities+and+crime
